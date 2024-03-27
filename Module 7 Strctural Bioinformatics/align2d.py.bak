@@ -1,0 +1,8 @@
+env = environ()
+aln = alignment(env)
+mdl = model(env, file='5M8K')
+aln.append_model(mdl, align_codes='5M8K', atom_files='5M8K.pdb')
+aln.append(file='wnt1.ali', align_codes='wnt1')
+aln.align2d()
+aln.write(file='wnt1-3XGF.ali', alignment_format='PIR')
+aln.write(file='wnt1-5M8K.pap', alignment_format='PAP')

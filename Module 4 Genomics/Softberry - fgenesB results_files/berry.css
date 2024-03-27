@@ -1,0 +1,122 @@
+A:link {
+	COLOR: #cc0000; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #ff6633; TEXT-DECORATION: underline
+}
+A.main {
+	FONT-SIZE: 9pt; COLOR: #3c3c45; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menu {
+	FONT-SIZE: 9pt; COLOR: #3c3c45; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.submenu {
+	FONT-SIZE: 8pt; COLOR: #3c3c45; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.submenu:hover {
+	COLOR: #008080; TEXT-DECORATION: underline
+}
+A.submenu:visited {
+	COLOR: #3c3c45; TEXT-DECORATION: none
+}
+A.submenu:hover {
+	COLOR: #008080; TEXT-DECORATION: underline
+}
+LI {
+	FONT-SIZE: 90%; MARGIN-LEFT: 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+PRE {
+	FONT-FAMILY: Courier,  monospace
+}
+UL {
+	FONT-SIZE: 90%; MARGIN-LEFT: 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+OL {
+	FONT-SIZE: 75%; MARGIN-LEFT: 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+H1 {
+	FONT-SIZE: 100%; COLOR: #800000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+H2 {
+	FONT-SIZE: 100%; COLOR: #800000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+H3 {
+	FONT-SIZE: 90%; MARGIN-LEFT: 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.norm {
+	FONT-SIZE: 75%; MARGIN: 10px 5px 10px 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.news {
+	FONT-SIZE: 75%;
+	MARGIN: 10px 5px 10px 15px;
+	COLOR: Teal;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-ALIGN: justify
+}
+.cntr {
+	FONT-SIZE: 75%; MARGIN: 10px 5px 10px 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.rght {
+ TEXT-ALIGN: right; TEXT-DECORATION: NONE; MARGIN: 10px 5px 10px 15px; FONT-SIZE: 9pt; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+}
+A.rght {
+ TEXT-ALIGN: right; TEXT-DECORATION: NONE; MARGIN: 10px 5px 10px 15px; FONT-SIZE: 9pt; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+}
+A.rght:visited {
+ TEXT-ALIGN: right; TEXT-DECORATION: NONE; MARGIN: 10px 5px 10px 15px; FONT-SIZE: 9pt; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+}
+
+
+.term {
+	FONT-SIZE: 60%; MARGIN: 10px 5px 10px 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.note {
+	FONT-SIZE: 60%; MARGIN: 10px 5px 10px 15px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.cit {
+	FONT-SIZE: 70%; MARGIN: 10px 5px 10px 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.welcome {
+	FONT-SIZE: 80%; MARGIN-LEFT: 10px; COLOR: #004848; MARGIN-RIGHT: 10px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.copy {
+	FONT-SIZE: 60%; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.frm {
+	FONT-SIZE: 75%; COLOR: #3c3c45; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.navlink2 {
+	FONT-SIZE: 11pt; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+.formbutton {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #3c3c45; FONT-FAMILY: Arial; BACKGROUND-COLOR: #cccc99
+}
+.formtext {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial
+}
+.formselect {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial
+}
+.last-modified {
+	FONT-SIZE: 60%; MARGIN-LEFT: 15px; COLOR: #004848; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.menu_tbl {
+	WIDTH: 200px
+}
+.main_head {
+	FONT-SIZE: 9pt;
+	COLOR: #3C6868;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-ALIGN: left;
+	margin-top :10;
+	margin-left : 10;
+	font-weight : bold;
+}
+.main_descr {
+	FONT-SIZE: 8pt;
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-ALIGN: justify;
+	margin-left : 10;
+
+}

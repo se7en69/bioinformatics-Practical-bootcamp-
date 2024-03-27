@@ -1,0 +1,53 @@
+########################################
+# Program: needle
+# Rundate: Sun 24 Mar 2024 19:30:15
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240324-193012-0553-91149025-p1m.asequence
+#    -bsequence emboss_needle-I20240324-193012-0553-91149025-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: HBA_HUMAN
+# 2: HBA_MOUSE
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 142
+# Identity:     122/142 (85.9%)
+# Similarity:   131/142 (92.3%)
+# Gaps:           0/142 ( 0.0%)
+# Score: 648.0
+# 
+#
+#=======================================
+
+HBA_HUMAN          1 MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLS     50
+                     ||||..||:|:||||||:|.|..|||||||||||.|||||||||||||:|
+HBA_MOUSE          1 MVLSGEDKSNIKAAWGKIGGHGAEYGAEALERMFASFPTTKTYFPHFDVS     50
+
+HBA_HUMAN         51 HGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFK    100
+                     |||||||||||||||||.:|..|:||:|.|||||||||||||||||||||
+HBA_MOUSE         51 HGSAQVKGHGKKVADALASAAGHLDDLPGALSALSDLHAHKLRVDPVNFK    100
+
+HBA_HUMAN        101 LLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR    142
+                     |||||||||||:|.||:|||||||||||||||||||||||||
+HBA_MOUSE        101 LLSHCLLVTLASHHPADFTPAVHASLDKFLASVSTVLTSKYR    142
+
+
+#---------------------------------------
+#---------------------------------------

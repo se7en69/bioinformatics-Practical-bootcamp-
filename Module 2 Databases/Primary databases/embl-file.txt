@@ -1,0 +1,103 @@
+ID   AY037216; SV 1; linear; mRNA; STD; PLN; 882 BP.
+XX
+AC   AY037216;
+XX
+DT   13-JUN-2001 (Rel. 68, Created)
+DT   13-JUN-2001 (Rel. 68, Last updated, Version 1)
+XX
+DE   Arabidopsis thaliana At2g18160/F8D23.6 mRNA, complete cds.
+XX
+KW   FLI_CDNA.
+XX
+OS   Arabidopsis thaliana (thale cress)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis.
+XX
+RN   [1]
+RP   1-882
+RA   Cheuk R., Chen H., Kim C.J., Koesema E., Meyers M.C., Shinn P., Tracy S.E.,
+RA   Banh J., Bowser L., Carninci P., Chung M.K., Goldsmith A.D.,
+RA   Hayashizaki Y., Ishida J., Jones T., Kamiya A., Karlin-Neumann G.,
+RA   Kawai J., Lam B., Lee J.M., Lin J., Liu S.X., Miranda M., Narusaka M.,
+RA   Nguyen M., Palm C.J., Pham P.K., Quach H.L., Sakano H., Sakurai T.,
+RA   Satou M., Seki M., Southwick A., Tang C.C., Toriumi M., Yamada K., Yu G.,
+RA   Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   "Arabidopsis cDNA clones";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-882
+RA   Cheuk R., Chen H., Kim C.J., Koesema E., Meyers M.C., Shinn P., Tracy S.E.,
+RA   Banh J., Bowser L., Carninci P., Chung M.K., Goldsmith A.D.,
+RA   Hayashizaki Y., Ishida J., Jones T., Kamiya A., Karlin-Neumann G.,
+RA   Kawai J., Lam B., Lee J.M., Lin J., Liu S.X., Miranda M., Narusaka M.,
+RA   Nguyen M., Palm C.J., Pham P.K., Quach H.L., Sakano H., Sakurai T.,
+RA   Satou M., Seki M., Southwick A., Tang C.C., Toriumi M., Yamada K., Yu G.,
+RA   Shinozaki K., Davis R.W., Theologis A., Ecker J.R.;
+RT   ;
+RL   Submitted (22-MAY-2001) to the INSDC.
+RL   Salk Institute Genomic Analysis Laboratory (SIGnAL), Plant Biology
+RL   Laboratory, The Salk Institute for Biological Studies, 10010 N. Torrey
+RL   Pines Road, La Jolla, CA 92037, USA
+XX
+DR   MD5; 34d4d91908b4a259fbb2b657536cc926.
+XX
+CC   RIKEN Genomic Sciences Center (GSC) members carried out the
+CC   collection and clustering of RAFL cDNAs (RAFL cDNA : 'RIKEN
+CC   Arabidopsis Full-Length cDNA') :  Seki,M., Narusaka,M., Ishida,J.,
+CC   Satou,M., Kamiya,A., Sakurai,T., Carninci,P.,  Kawai,J.,
+CC   Hayashizaki,Y. and Shinozaki,K.
+CC   The Salk, Stanford, PGEC (SSP) Consortium members carried out the
+CC   sequencing and annotation of the RAFL cDNAs: Cheuk,R., Chen,H.,
+CC   Kim,C.J., Koesema,E., Meyers,M.C., Shinn,P., Tracy,S.E., Banh,J.
+CC   Bowser,L., Chung,M.K., Goldsmith,A.D., Jones,T., Karlin-Neumann,G.,
+CC   Lam,B., Lee,J.M., Lin,J., Liu,S.X., Miranda,M., Nguyen,M.,
+CC   Palm,C.J., Pham,P.K., Quach,H.L., Sakano,H., Southwick,A.,
+CC   Tang,C.C., Toriumi,M., Yamada,K., Yu,G., Davis,R.W.,  Theologis,A.,
+CC   and Ecker,J.R.
+CC   Cheuk,R. (SSP/Salk) and Seki,M. (RIKEN GSC) contributed equally to
+CC   this work.  Shinozaki,K. (RIKEN GSC) and Ecker,J.R. (SSP/Salk)
+CC   contributed equally to this work as PIs.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..882
+FT                   /organism="Arabidopsis thaliana"
+FT                   /chromosome="2"
+FT                   /mol_type="mRNA"
+FT                   /clone="RAFL02-06-L17(R12692)"
+FT                   /note="ecotype: Columbia"
+FT                   /db_xref="taxon:3702"
+FT   5'UTR           1..346
+FT   CDS             347..862
+FT                   /codon_start=1
+FT                   /product="At2g18160/F8D23.6"
+FT                   /note="putative bZIP transcription factor"
+FT                   /db_xref="GOA:Q9SI15"
+FT                   /db_xref="InterPro:IPR004827"
+FT                   /db_xref="UniProtKB/Swiss-Prot:Q9SI15"
+FT                   /protein_id="AAK59801.1"
+FT                   /translation="MASSSSTYRSSSSSDGGNNNPSDSVVTVDERKRKRMLSNRESARR
+FT                   SRMRKQKHVDDLTAQINQLSNDNRQILNSLTVTSQLYMKIQAENSVLTAQMEELSTRLQ
+FT                   SLNEIVDLVQSNGAGFGVDQIDGCGFDDRTVGIDGYYDDMNMMSNVNHWGGSVYTNQPI
+FT                   MANDINMY"
+FT   3'UTR           863..882
+XX
+SQ   Sequence 882 BP; 273 A; 195 C; 161 G; 253 T; 0 other;
+     aaccaaaaaa aaaaaaaaac tcttcctctg tttgttttca agttctgaca tcataaattc        60
+     agaccgagaa aacataaaaa tttgagtctt ttgatgatcg gaaactgatg actcccgttc       120
+     tctgcgaaat cctgctctct gggctcacgg tcaaatctgc tctctgccgt agaacccatc       180
+     tcgttcaatc tttctccgtc gtcttcctct actggtttta caacgtttca tgaattgcta       240
+     caaactctaa ttaatttttt cagacagatc ataaaaaaaa accaaacata aaacataaaa       300
+     ctctgtcctt tttttgtctt cttgtaactt ttcttgttaa aaatcaatgg cgtcatctag       360
+     cagcacatac cggagctcaa gctcttccga cggtggtaat aataacccgt cggactccgt       420
+     cgtcaccgtc gacgaacgaa aacgtaaaag aatgttatcg aacagagaat ctgcacgtag       480
+     gtcaaggatg cgtaaacaga aacacgttga tgatctaacg gctcagatca atcagctatc       540
+     aaacgacaac cgtcagatct tgaacagcct caccgtaaca tctcagcttt acatgaagat       600
+     ccaagccgag aactctgttc tcaccgctca gatggaggag cttagcacca gactccaatc       660
+     tctcaacgag atcgttgatc ttgttcaatc caacggtgca ggatttggtg ttgaccagat       720
+     cgacggctgt ggttttgatg atcgtacggt tgggatcgac ggatattacg atgatatgaa       780
+     tatgatgagt aatgttaatc attggggtgg ttcggtttac actaaccaac ccattatggc       840
+     taatgatatc aatatgtatt gattaataaa attaattaaa at                          882
+//
